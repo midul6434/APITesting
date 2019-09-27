@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "project":
+    {
+      "key": "LA"
+    },
+    "summary": "Always do right. This will gratify some people and astonish the REST.",
+    "description": "Creating an issue while setting custom field values",
+    "issuetype": {
+      "name": "Bug"
+    },
+    "customfield_10201" : "Value that we're putting into a Free Text Field."
+  }
+}
